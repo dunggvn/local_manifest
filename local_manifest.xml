@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Device and Common Trees -->
+ <project path="device/lge/sm8150-common" name="anht3889/android_device_lge_sm8150-common.git" remote="github" revision="aosp" />
+ <project path="device/lge/flash-common" name="anht3889/android_device_lge_flash-common.git" remote="github" revision="aosp" />
+ <project path="device/lge/flashlmdd" name="dunggvn/android_device_lge_flashlmdd.git" remote="github" revision="aosp" />
+ <project path="device/lge/common" name="anht3889/android_device_lge_common.git" remote="github" revision="aosp" />
+ 
+ <!-- Proprietary Vendor -->
+ <project path="vendor/lge" name="anht3889/proprietary_vendor_lge.git" remote="github" revision="aosp" />
+
+ <!-- Kernel Source -->
+ <project path="kernel/lge/sm8150" name="anht3889/android_kernel_lge_sm8150_new.git" remote="github" revision="aosp" />
+
+ <!-- Hardware -->
+ <project path="hardware/lge" name="anht3889/android_hardware_lge.git" remote="github" revision="aosp" />
+
+</manifest>

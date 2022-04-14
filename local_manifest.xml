@@ -4,7 +4,7 @@
  <!-- Device and Common Trees -->
  <project path="device/lge/sm8150-common" name="anht3889/android_device_lge_sm8150-common.git" remote="github" revision="aosp" />
  <project path="device/lge/flash-common" name="anht3889/android_device_lge_flash-common.git" remote="github" revision="aosp" />
- <project path="device/lge/flashlmdd" name="dunggvn/android_device_lge_flashlmdd.git" remote="github" revision="droid-ng" />
+ <project path="device/lge/flashlmdd" name="dunggvn/android_device_lge_flashlmdd.git" remote="github" revision="cipher" />
  <project path="device/lge/common" name="anht3889/android_device_lge_common.git" remote="github" revision="aosp" />
  
  <!-- Proprietary Vendor -->

@@ -7,4 +7,4 @@
  <!-- Add libcore -->
  <project path="libcore" name="Bootleggers-BrokenLab/libcore.git" remote="github" revision="sambun" />
 
-</manifest
+</manifest>

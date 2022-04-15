@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Remove libcore -->
+ <remove-project name="libcore" />
+
+ <!-- Add libcore -->
+ <project path="libcore" name="Bootleggers-BrokenLab/libcore.git" remote="github" revision="sambun" />
+
+</manifest

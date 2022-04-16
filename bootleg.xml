@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- <!-- Remove libcore -->
+ <!-- Remove -->
  <remove-project name="libcore" />
+ <remove-project name="system_sepolicy" />
 
- <!-- Add libcore -->
+ <!-- Add -->
  <project path="libcore" name="Bootleggers-BrokenLab/libcore.git" remote="github" revision="sambun" />
+ <project path="system/sepolicy" name"Bootleggers-BrokenLab/system_sepolicy.git" remote="github" revision="sambun" />
 
 </manifest>

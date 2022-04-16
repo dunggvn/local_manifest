@@ -7,6 +7,6 @@
 
  <!-- Add -->
  <project path="libcore" name="Bootleggers-BrokenLab/libcore.git" remote="github" revision="sambun" />
- <project path="system/sepolicy" name"Bootleggers-BrokenLab/system_sepolicy.git" remote="github" revision="sambun" />
+ <project path="system/sepolicy" name="Bootleggers-BrokenLab/system_sepolicy.git" remote="github" revision="sambun" />
 
 </manifest>
